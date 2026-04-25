@@ -1,21 +1,9 @@
-<p align="center">
-  <a href="https://github.com/Rishi-n-s">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E14&height=300&section=header&text=RISHI%20SOLANKI&fontSize=80&animation=twinkling&fontColor=7D5FFF" width="100%"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7D5FFF&center=true&vCenter=true&width=800&height=50&lines=🚀+INIT+MISSION+COMMAND+v2.0...;📡+SCANNING+PLANETARY+SYSTEMS...;💻+TARGET:+FULL-STACK+EXCELLENCE;✨+STATUS:+MISSION+READY;👨‍🚀+WELCOME+COMMANDER+RISHI">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishi-n-s&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%">
-</p>
 
 # <div align="center">Mission Command: Rishi Solanki (Maruti) </div>
 
 <div align="center">
-  <img src="assets/images/profile.jpeg" width="220" style="border-radius: 50%; border: 5px solid #7d5fff; box-shadow: 0 0 30px rgba(125, 95, 255, 0.6); margin-bottom: 20px;">
+  <img src="assets/images/profile.jpeg" width="220" style="border-radius: 50%; border: 5px solid #4169E1; box-shadow: 0 0 30px rgba(65, 105, 225, 0.6); margin-bottom: 20px;">
   
   ## ✨ "Jack of all trades, master of none, but often better than master of one." ✨
   
@@ -24,7 +12,7 @@
       <img src="https://img.shields.io/badge/Status-Active%20Mission-success?style=for-the-badge&logo=rocket&color=00ff88" />
     </a>
     <a href="https://rishi-n-s.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-Live%20View-blue?style=for-the-badge&logo=google-chrome&color=7d5fff" />
+      <img src="https://img.shields.io/badge/Portfolio-Live%20View-blue?style=for-the-badge&logo=google-chrome&color=4169E1" />
     </a>
   </p>
 
@@ -109,7 +97,7 @@ I am a creative developer dedicated to engineering high-performance, immersive d
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7d5fff&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=100&section=footer" width="100%"/>
   <br>
   <i>"Ad Astra Per Aspera" — To the stars through difficulties.</i>
   <br>
