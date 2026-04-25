@@ -55,19 +55,19 @@ I am a creative developer dedicated to engineering high-performance, immersive d
         <i>A cinematic 3D environment built with Three.js.</i>
       </td>
       <td align="center">
-        <img src="assets/images/google palay store listing.png" width="250"><br>
+        <img src="assets/images/google-play-store-listing.png" width="250"><br>
         <b>Play Store Ventures</b><br>
         <i>Mobile applications focused on performance and UX.</i>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/images/Kaggle Community Member.png" width="250"><br>
+        <img src="assets/images/kaggle-community-member.png" width="250"><br>
         <b>Data Frontiers</b><br>
         <i>Recognized Kaggle Community contributor.</i>
       </td>
       <td align="center">
-        <img src="assets/images/python badge.jpg" width="250"><br>
+        <img src="assets/images/python-badge.jpg" width="250"><br>
         <b>Logic Core</b><br>
         <i>Advanced Python logic and backend architectures.</i>
       </td>
