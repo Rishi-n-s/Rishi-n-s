@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7D5FFF&center=true&vCenter=true&width=800&height=50&lines=🚀+INIT+MISSION+COMMAND+v2.0...;📡+SCANNING+PLANETARY+SYSTEMS...;💻+TARGET:+FULL-STACK+EXCELLENCE;✨+STATUS:+MISSION+READY;👨‍🚀+WELCOME+COMMANDER+RISHI">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishi-n-s&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%">
+</p>
+
 # <div align="center">Mission Command: Rishi Solanki (Maruti) </div>
 
 <div align="center">
