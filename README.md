@@ -93,7 +93,7 @@ I am a creative developer dedicated to engineering high-performance, immersive d
 ### 📡 Communications Array
 - 💼 **LinkedIn**: [Rishi Solanki](https://www.linkedin.com/in/rishi-solanki-505a9b380/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav2/)
 - 🌐 **Portfolio**: [rishi-n-s.github.io](https://rishi-n-s.github.io/)
-- 📧 **Email**: [rishi.solanki@example.com](mailto:rishi.solanki@example.com)
+- 📧 **Email**: [rishisolanki7319@gmail.com](mailto:rishi.solanki@example.com)
 
 <br>
 
