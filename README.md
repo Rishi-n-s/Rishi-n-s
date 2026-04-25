@@ -11,7 +11,7 @@
     <a href="https://github.com/Rishi-n-s">
       <img src="https://img.shields.io/badge/Status-Active%20Mission-success?style=for-the-badge&logo=rocket&color=00ff88" />
     </a>
-    <a href="https://rishi-n-s.github.io/">
+    <a href="rishi-n-solanki.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-Live%20View-blue?style=for-the-badge&logo=google-chrome&color=4169E1" />
     </a>
   </p>
