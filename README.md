@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="assets/images/mission-command-banner.png" width="100%" style="border-radius: 15px;">
+  <a href="https://github.com/Rishi-n-s">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0E14&height=300&section=header&text=RISHI%20SOLANKI&fontSize=80&animation=twinkling&fontColor=7D5FFF" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7D5FFF&center=true&vCenter=true&width=800&height=50&lines=🚀+INIT+MISSION+COMMAND+v2.0...;📡+SCANNING+PLANETARY+SYSTEMS...;💻+TARGET:+FULL-STACK+EXCELLENCE;✨+STATUS:+MISSION+READY;👨‍🚀+WELCOME+COMMANDER+RISHI">
 </p>
 
 # <div align="center">Mission Command: Rishi Solanki (Maruti) </div>
