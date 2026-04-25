@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/mission-command-banner.png" width="100%" style="border-radius: 15px;">
+</p>
+
 # <div align="center">Mission Command: Rishi Solanki (Maruti) </div>
 
 <div align="center">
