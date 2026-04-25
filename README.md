@@ -14,7 +14,7 @@
     </a>
   </p>
 
-  **Full-Stack Developer | UI/UX Visionary | Odoo Specialist | unique websdesigner | hairstylist**
+  **Full-Stack Developer | UI/UX Visionary | Odoo Specialist | unique web designer | hairstylist**
 </div>
 
 ---
