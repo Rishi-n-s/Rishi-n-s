@@ -3,7 +3,7 @@
 # <div align="center">Mission Command: Rishi Solanki (Maruti) </div>
 
 <div align="center">
-  <img src="assets/images/profile.jpeg" width="220" style="border-radius: 50%; border: 5px solid #4169E1; box-shadow: 0 0 30px rgba(65, 105, 225, 0.6); margin-bottom: 20px;">
+  <img src="assets/images/profile.jpeg" width="220" style="border-radius: 50%; border: 5px solid #4169E1; box-shadow: 0 0 30px rgba(65, 105, 225, 0.6); margin-bottom: 20px; border-radius: 50%; box-shadow: 0 0 30px rgba(65, 105, 225, 0.6);">
   
   ## ✨ "Jack of all trades, master of none, but often better than master of one." ✨
   
