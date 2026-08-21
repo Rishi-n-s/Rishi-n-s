@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1A2B4C,100:3B82F6&height=230&section=header&text=Rishi%20Nilesh%20Solanki&fontSize=42&fontAlignY=38&desc=Creative%20Developer%20%E2%80%A2%20UI%2FUX%20Visionary%20%E2%80%A2%20Google%20Student%20Ambassador&descAlignY=58&descAlign=50&theme=dark" width="100%"/>
 
   <a href="https://rishi-n-solanki.vercel.app" target="_blank">
-    <img src="assets/images/profile.jpg" width="180" height="180" style="border-radius: 50%; border: 4px solid #3B82F6; box-shadow: 0 0 35px rgba(59, 130, 246, 0.75); margin-top: -30px; object-fit: cover;">
+    <img src="assets/images/profile.jpeg" width="180" height="180" style="border-radius: 50%; border: 4px solid #3B82F6; box-shadow: 0 0 35px rgba(59, 130, 246, 0.75); margin-top: -30px; object-fit: cover;">
   </a>
 
   <h2>🚀 Rishi Solanki (Maruti / <code>not.a.superman</code>)</h2>
@@ -241,12 +241,33 @@ I am a creative developer, UI/UX craftsman, and entrepreneur from **Veraval & Ah
 ### 📊 Operational Metrics & GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishi-n-s&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" height="175">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-n-s&layout=compact&theme=tokyonight&border_radius=10" height="175">
-</div>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Rishi-n-s&label=Telemetry%20Visitors&color=3B82F6&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Active%20Mission-00FF88?style=for-the-badge&logo=rocket&logoColor=black" />
+  </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-n-s&theme=tokyonight&border_radius=10" width="100%">
+  <br>
+
+  <table align="center">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/Rishi-n-s">
+          <img src="https://github-readme-stats.vercel.app/api?username=Rishi-n-s&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="185" alt="Rishi's GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/Rishi-n-s">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-n-s&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" height="185" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <a href="https://github.com/Rishi-n-s">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-n-s&theme=tokyo-night&custom_title=GitHub%20Operational%20Activity%20Telemetry&hide_border=true&bg_color=090D16&color=3B82F6&line=00FF88&point=FFFFFF" width="100%" alt="Rishi's Activity Graph" />
+  </a>
 </div>
 
 ---
