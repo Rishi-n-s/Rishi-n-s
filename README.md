@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1A2B4C,100:3B82F6&height=230&section=header&text=Rishi%20Nilesh%20Solanki&fontSize=42&fontAlignY=38&desc=Creative%20Developer%20%E2%80%A2%20UI%2FUX%20Visionary%20%E2%80%A2%20Google%20Student%20Ambassador&descAlignY=58&descAlign=50&theme=dark" width="100%"/>
 
   <a href="https://rishi-n-solanki.vercel.app" target="_blank">
-    <img src="assets/images/profile.jpeg" width="180" height="180" style="border-radius: 50%; border: 4px solid #3B82F6; box-shadow: 0 0 35px rgba(59, 130, 246, 0.75); margin-top: -30px; object-fit: cover;">
+    <img src="assets/images/profile-circle.png" width="180" height="180" alt="Rishi Solanki Profile">
   </a>
 
   <h2>🚀 Rishi Solanki (Maruti / <code>not.a.superman</code>)</h2>
