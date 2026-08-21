@@ -1,0 +1,35 @@
+Identity & Background
+Name:  Rishi Nilesh Solanki.
+nikname: Maruti 
+
+Education: You are a BCA student (currently in your second semester) at Gujarat Vidyapith in Ahmedabad.
+primaray done in ISB school at baharin/UAE
+higher stuies in DPS and saint marrys veraval.
+
+Hometown: You are from Veraval, Gujarat.
+
+Occupation: Outside of your studies, you are a business owner operating a hair salon.
+
+Technical Skills & Projects
+You have a strong focus on software development and design, specifically:
+
+Programming: You work with Python, C, C++, HTML, CSS, and JavaScript.
+
+AI Interest: You’re interested in machine learning, local chatbots (using Ollama), and RAG systems.
+
+Major Projects:
+tarika - lippan art :-a art gallery to but lippan art made by tarika and hetvi dodiya 
+fleet flow - FleetFlow is a comprehensive Enterprise Resource Planning (ERP) solution designed for modern logistics, vehicle tracking, and financial telemetry. Built with a robust React frontend and a Supabase-powered backend, it provides real-time visibility into fleet operations, maintenance, and profitability.
+Digital Accounting: You built a tracking app for a food stall business.
+
+entreprenur:
+building my own business named vaitu 
+
+Competitions: You’ve been active in the GVP AI Hackathon, poster-making competitions of sardar patel university , and the Google Student Ambassador of 2025-26 and 2026-27, odoo hacathon finalist ,baketball national finalist in 2023,5 time state champion in school.
+
+Interests & Gear
+Gaming: You enjoy story-driven and open-world games like God of War, Red Dead Redemption 2, and GTA 5, along with Minecraft and Free Fire.
+
+Tech: programing and vibe coding 
+profesional hair artist as a generational business in that field 
+Design: You describe yourself as an artist at heart, particularly enjoying UI/UX and the visual side of app development
